@@ -1,3 +1,5 @@
 # drumKit
 
-Bio-data:
+
+
+Class Representative of the CSE'20 batch.
