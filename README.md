@@ -1,2 +1,3 @@
-# drumKit 
-Gaurav is very good in communicating with people. 
+# drumKit
+
+Gaurav should work on himself. 
